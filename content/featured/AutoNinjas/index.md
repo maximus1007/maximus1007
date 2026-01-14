@@ -13,4 +13,4 @@ tech:
   - TypeScript
 ---
 
-I built a full-stack application with a modular API and responsive UI that centralizes task management and supports real-time updates.
+I built a scalable full-stack application that centralizes task management, using a modular API and responsive UI to enable real-time updates and reduce workflow friction.

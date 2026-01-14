@@ -11,4 +11,4 @@ tech:
   - Smart Contract
 ---
 
-Designed and Developed Company official website and app for hi marketplace, built smart contract codes, and hanled data modeling and authentication.
+Designed and developed the official website and application for the Hi Marketplace, implemented smart contracts, and built secure data models and authentication systems.

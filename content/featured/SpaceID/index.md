@@ -11,4 +11,4 @@ tech:
   - Smart Contract
 ---
 
-Designed and developed bnb domain marketplace and developed some of smart contracts and integrated with web3.
+Designed and developed a BNB domain marketplace, implemented smart contracts, and integrated Web3 to enable secure on-chain transactions.

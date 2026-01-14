@@ -10,4 +10,4 @@ tech:
   - TailwindCSS
 ---
 
-Designed and implemented the project architecture, integrated with web3, and handled data modeling and authentication.
+I designed and implemented the system architecture, integrated Web3 functionality, and built secure data models and authentication flows.
