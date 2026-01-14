@@ -11,4 +11,4 @@ tech:
   - Smart Contract
 ---
 
-hi.com is a Web3-enabled financial super app that combines crypto exchange services with next-generation digital banking. It aims to make it easy for users to buy, sell, store, send, and earn on both cryptocurrencies and fiat money all within one platform, accessible via mobile, web, or chat bots.
+Designed and Developed Company official website and app for hi marketplace, built smart contract codes, and hanled data modeling and authentication.

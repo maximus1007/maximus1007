@@ -10,4 +10,4 @@ tech:
   - TailwindCSS
 ---
 
-Monitor Blockchain transactions in real time and setup alerts to be delivered via email, text message etc.
+Designed and implemented the project architecture, integrated with web3, and handled data modeling and authentication.

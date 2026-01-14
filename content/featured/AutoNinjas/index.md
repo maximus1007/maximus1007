@@ -13,4 +13,4 @@ tech:
   - TypeScript
 ---
 
-Auto Ninjas combines exclusive pre-negotiated deals, transparent penny-perfect payment calculations, and a trusted network of partner dealerships to create a seamless, stress-free car buying experience.
+I built a full-stack application with a modular API and responsive UI that centralizes task management and supports real-time updates.
