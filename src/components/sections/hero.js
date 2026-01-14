@@ -61,19 +61,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">David Liang.</h2>;
-  const three = <h3 className="big-heading">Full Stack Developer.</h3>;
+  const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <>
       <p>
-        Senior Full-Stack Engineer with extensive experience at Hy.ly, Space ID, and Hi specializing
-        in building scalable, high-performance, and reusable project architectures. Proven track
-        record of leading complex projects from concept through production, while establishing best
-        practices that improve code quality, maintainability, and team velocity. Adept at rapidly
-        adopting new technologies and mentoring junior and mid-level engineers to foster strong,
-        collaborative development teams. Experienced in partnering closely with product, design, and
-        backend stakeholders to deliver user-centric solutions at scale. Passionate about continuous
-        learning and eager to contribute technical leadership and strategic impact within a large,
-        high-performing engineering organization such as Redfin.
+        I’m a full-stack software engineer specializing in building high-quality, scalable digital experiences, with hands-on experience in AI-driven solutions.
       </p>
     </>
   );
