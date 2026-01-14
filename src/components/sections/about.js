@@ -84,16 +84,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I believe that maintaining consistent standards in a codebase is essential to building
-              reliable, scalable software. Just as a railway must follow a precise route to function
-              correctly, a project depends on well-defined rules and structure to remain stable and
-              maintainable. I am a disciplined and detail-oriented web developer with over six years
-              of professional experience, committed to writing clean, well-structured, and
-              maintainable code. I place a strong emphasis on best practices and code quality, and I
-              take pride in improving and sustaining high standards across projects. Known
-              professionally, I am a web developer with a deep passion for
-              engineering and problem-solving. Coding is more than a skill to me—it is a core part
-              of how I create value and build impactful digital experiences.
+              Hello! My name is David and I enjoy creating things that live on the internet. My interest in web development started back in 2014 when I decided to try editing custom Tumblr themes — turns out hacking together a custom reblog button taught me a lot about HTML & CSS!
+            </p>
+
+            <p>
+              Fast-forward to today, and I’ve had the privilege of working at an <a href="hyly.ai">AI agency</a>, <a href="autoninjas.com">a start-up</a>, <a href="space.id">a huge corporation</a>. My main focus these days is building accessible, inclusive AI products for the new opportunity.
+            </p>
+            
+            <p>
+              Here are a few technologies I’ve been working with recently:
             </p>
           </div>
 
